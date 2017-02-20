@@ -1,2 +1,0 @@
-# bootcamp-tests
-Testing functions
